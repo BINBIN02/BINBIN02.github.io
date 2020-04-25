@@ -1,6 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/2020/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<a id="more"></a>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>震惊！哈勃三十岁生日，NASA竟然干了这种事！</title>
+    <url>/2020/HST30/</url>
+    <content><![CDATA[<p>很久没有上NASA看星图，昨天收到了一封邮件，提醒了我，点开一看没想到！！！</p>
+<a id="more"></a>
+<h1 id="BINBIN的某个申诉成功了！"><a href="#BINBIN的某个申诉成功了！" class="headerlink" title="BINBIN的某个申诉成功了！"></a>BINBIN的某个申诉成功了！</h1><p><strong>这个UC震惊部的标题感觉还是不错的，因为昨天收到了好几封邮件，最重要的一条就是自己曾经运营过的一个今日头条的头条号原创内容申诉成功了，停止了近一年的头条号又可以用了（虽然这一年也发过，但因有申诉内容，官方一直被不给推文）。</strong></p>
+<div align=center><img width=30% height=30% src="https://imgkr.cn-bj.ufileos.com/f23bdc47-e586-4bd5-8b10-62adc9222df8.png"/></div>
+
+<p><strong>✌头条号收益都有了，反观UC的大鱼号呢?到现在都因为未满十八岁，无法认证。也难怪大鱼号收益越来越惨淡，毕竟自媒体运营者已越来越年轻化。你每天所刷的QQ看点，B站专刊，说不定正是一位12岁小学生“水”出来的文章。有关这种自媒体账号，BINBIN有一段屈辱的经历，在不久的之后也会发出来。（应该咕咕咕不了）</strong></p>
+<h1 id="回归正题，围观NASA干的“这件事”"><a href="#回归正题，围观NASA干的“这件事”" class="headerlink" title="回归正题，围观NASA干的“这件事”"></a>回归正题，围观NASA干的“这件事”</h1><p><strong>说一下第二个引发我关注的邮件，NASA的一封信邮件，当我准备点开再退出来时，我瞄到了一个不应该出现在往常NASA邮件中的单词！<br>没错，就是“birthday”！，发现了端倪的我开始下拉这封邮件，在详细阅读一番后，退了出来，点开了有道翻译官APP，再打开邮件，选择屏幕内容翻译。</strong></p>
+<div align=center><img width=30% height=30% src="https://imgkr.cn-bj.ufileos.com/3c7873f7-d96f-42ef-999b-7527291759bb.png"/></div>
+
+<p><strong>经过再一次的认真阅读后，了解到了一个重要信息，2019.4.24是哈勃空间望远镜（HST）发射三十周年，所以为了纪念这件事情，NASA开放了一个网页“What Did Hubble See on Your Birthday?”（自译：哈勃在你生日那天瞅见了啥？）</strong></p>
+<div align=center><img width=100% height=100% src="https://imgkr.cn-bj.ufileos.com/d108b29f-e1bf-436c-ba41-4f69ef98b1c6.png"/></div>
+
+<p><strong>点开网页，选取了你的生日之后，点击提交就可以出来了！这个是无法选择年份的，毕竟哈勃也刚才30岁。我滴呢是我的是Hubble-V Nebula。</strong><br>Hubble-V is an active star-forming region within galaxy NGC 6822. The cloud is about 200 light-years across and contains a dense knot of dozens of ultra-hot stars, each 100,000 times brighter than our Sun. <div align=center><img width=50% height=50% src="https://imgkr.cn-bj.ufileos.com/727cfb29-2978-4f66-9e30-f799145da944.jpg"/></div> </p>
+<h2 id="看样子感觉还不错，如何保存它呢？"><a href="#看样子感觉还不错，如何保存它呢？" class="headerlink" title="看样子感觉还不错，如何保存它呢？"></a>看样子感觉还不错，如何保存它呢？</h2><p>答：选择图片中的“See Full Image”，会跳转到一个新的网页，右键保存（PC）/长按图片保存（PHONE）。</p>
+<h2 id="如何了解更多关于图片中星系内容？"><a href="#如何了解更多关于图片中星系内容？" class="headerlink" title="如何了解更多关于图片中星系内容？"></a>如何了解更多关于图片中星系内容？</h2><p>答：选择图片中的“More info”，在跳转的新页面中可以看到更加详细的关于图片的内容。</p>
+<div align=center><img width=50% height=50% src="https://imgkr.cn-bj.ufileos.com/591735b1-0bd5-4f7a-8c63-f87dc701f14a.png"/></div> 
+同时在这个页面中也提供了多种的图片大小，供用户下载。
+<div align=center><img width=50% height=50% src="https://imgkr.cn-bj.ufileos.com/ac6de97f-014f-4204-ac2a-acc48b7aefca.png"/></div>
+
+<h1 id="彩蛋"><a href="#彩蛋" class="headerlink" title="彩蛋"></a>彩蛋</h1><p><strong>下一次更文呢，会涉及到一些“墙外”的事情，以及我在翻“墙”中遇到的许许多多的事情。NASA官网是我在第一次翻墙中首批体验的网站之一！（挂上梯子访问速度可快多了）</strong></p>
+<div align=center><img width=30% height=30% src="https://imgkr.cn-bj.ufileos.com/0b710000-523d-4211-a7c5-b3c514cb58bc.png"/></div>
+
+<p><strong>最后BB一句：网站：<a href="https://www.xiaolengwu.cn">www.xiaolengwu.cn</a>（小冷屋拼音）</strong></p>
+]]></content>
+  </entry>
+  <entry>
     <title>BINBIN的自我介绍！</title>
     <url>/2020/aboutme/</url>
     <content><![CDATA[<p>关于这个小冷屋做点介绍吧，emmm，这个小屋子一点也不冷！！！</p>
@@ -53,25 +100,6 @@
 <h1 id="结束语"><a href="#结束语" class="headerlink" title="结束语"></a>结束语</h1><blockquote>
 <p><strong>因为害怕自己并非明珠而不敢刻苦琢磨，又因为有几分相信自己是明珠，而不能与瓦砾碌碌为伍。</strong></p>
 </blockquote>
-]]></content>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2020/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<a id="more"></a>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
 ]]></content>
   </entry>
   <entry>
